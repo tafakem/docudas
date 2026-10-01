@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Control y Gestión Documental",
+  "description": "Sistema administrativo para control, registro, numeración centralizada, seguimiento y gestión de documentos oficiales con reservas temporales, destinatarios, autorizaciones y auditoría completa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
